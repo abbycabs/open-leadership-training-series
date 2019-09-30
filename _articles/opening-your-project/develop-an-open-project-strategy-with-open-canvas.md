@@ -12,7 +12,7 @@ format: >
 
   *   Do a thinking/writing assignment on your own or with a group
 materials: >
-  *   Pencil and paper or this [editable version of Open Canvas](https://mozillascience.github.io/working-open-workshop/open_canvas/) (if you’d like to work online)
+  *   Pencil and paper on the [printed canvas](https://drive.google.com/open?id=0B9UZnVcaoMU6Mmtwc3dzOVQ4LW8) or this [editable version of Open Canvas](https://goo.gl/to6PYn) (if you’d like to work online)
 
   *   If you are working in a group, you can use a whiteboard and sticky notes so ideas can be easily shared with all members
 ---
@@ -32,6 +32,7 @@ Here’s more about the Open Canvas tool from its creator, Abby Cabunoc Mayes, D
 
 {% include videowrapper.html
   url="https://www.filepicker.io/api/file/LZtI0qVRTDqy0stDOkxX"
+  subs="/subs/OpenCanvas-Subs-EN.vtt"
   title="Open Canvas, Abby Cabunoc Mayes" %}
 
 Here’s a sample of an Open Canvas created by Abby for Mozilla Science Lab’s Paper Badger Open Project.
@@ -46,7 +47,7 @@ Open Canvas should help you identify needs and resources that are critical to cr
 
 In this assignment you’ll use Open Canvas to organize the information you already know about your project, clarify and summarize project goals and define resource needs.
 
-1.  Using the template, fill out Open Canvas for your project/idea. Read the description of what goes in each field (aloud, if you’re working in a group).
+1.  Using the template ([printable](https://drive.google.com/open?id=0B9UZnVcaoMU6Mmtwc3dzOVQ4LW8), [online](https://docs.google.com/presentation/d/1_eya6vVXpaZOpXFZsZNbVHboROI4IPWy-poCnYTNtnQ/edit#slide=id.p)), fill out Open Canvas for your project/idea. Read the description of what goes in each field (aloud, if you’re working in a group).
 2.  For your project, write what you think goes in each field-- your problem, solution, etc. Take a minute or two on each. If working in a group, have everyone write their own answer to each field on a sticky note.
 3.  Share, revise, and add. If working in a group, review the answers and spend a few minutes coming to shared definitions of each. Add these to the template or sticky note collection,
 4.  If you don’t yet know some of this information-- that’s OK! You can leave user channels, contributor profiles and channels boxes blank for now if you don’t have that information. We’ll go over those items in later Sections (see Building Communities of Contributors, Open Communications). You should have information for the problem, solution, value proposition, key metrics, and user profiles boxes filled in.
